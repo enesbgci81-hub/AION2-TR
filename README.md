@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/branding/logo/logo.png" width="220" alt="AION2-TR Logo">
+
 # AION2-TR
 
 ### 🇹🇷 Community-driven Turkish Localization Platform for AION 2
@@ -17,15 +19,15 @@
 
 ---
 
-## 📖 About
+# 📖 About
 
 AION2-TR is an open-source community project that aims to deliver a high-quality Turkish localization experience for **AION 2**.
 
-The project is focused on building a modern launcher, an automatic update system, a reliable patch engine, and community-driven translation tools before the game's official release.
+The project focuses on developing a modern launcher, an automatic update system, a reliable patch engine, and community-driven translation tools before the game's official release.
 
 ---
 
-## ✨ Planned Features
+# ✨ Planned Features
 
 - 🇹🇷 High-quality Turkish Localization
 - 🎮 Modern Flutter Launcher
@@ -42,7 +44,7 @@ The project is focused on building a modern launcher, an automatic update system
 
 ---
 
-## 🚧 Current Status
+# 🚧 Current Status
 
 The game has not yet been released.
 
@@ -57,41 +59,38 @@ We are currently preparing the complete project infrastructure, including:
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 AION2-TR
 │
 ├── assets/
 │   └── branding/
+│       └── logo/
 │
 ├── docs/
-│
 ├── installer/
-│
 ├── patch/
-│
 ├── screenshots/
-│
 ├── tools/
-│
 ├── translations/
 │
 ├── CHANGELOG.md
-├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
 └── README.md
 ```
 
 ---
 
-## 🗺️ Roadmap
+# 🗺️ Roadmap
 
 - ✅ Repository Setup
 - ✅ Documentation
 - ✅ Project Architecture
 - ✅ GitHub Project Board
 - 🚧 Brand Identity
+- 🚧 Project Logo
 - ⏳ Flutter Launcher
 - ⏳ Patch Engine
 - ⏳ Translation System
@@ -101,35 +100,45 @@ AION2-TR
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 Contributions are always welcome!
 
-If you'd like to contribute:
+You can contribute by:
 
-- Open an Issue
-- Suggest new features
-- Report bugs
-- Submit a Pull Request
+- Opening an Issue
+- Suggesting new features
+- Reporting bugs
+- Submitting a Pull Request
 
 ---
 
-## 📜 License
+# 📜 License
 
 This project will be released under the **MIT License**.
 
 ---
 
-## ❤️ Support the Project
+# ❤️ Support the Project
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
-Every star helps motivate the project and increases its visibility within the community.
+Every star helps the project grow and reach more AION players.
+
+---
+
+# 👨‍💻 Author
+
+**Created and maintained by Mehmet Enes Bağcı**
+
+GitHub: https://github.com/enesbgci81-hub
 
 ---
 
 <div align="center">
 
-Made with ❤️ by the AION2-TR Community
+### AION2-TR
+
+🇹🇷 Built with ❤️ for the Turkish AION Community
 
 </div>
